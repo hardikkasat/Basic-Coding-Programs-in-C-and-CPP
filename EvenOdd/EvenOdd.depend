@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590948142 source:c:\users\hardik maheshwari\documents\code blocks\projects\evenodd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
