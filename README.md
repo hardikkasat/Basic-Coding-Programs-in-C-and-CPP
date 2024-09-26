@@ -1,2 +1,2 @@
-# basic-program-projects-codeblocks
-These are some projects files of my basic coding skills in the C and C++ programming language
+# Basic Coding Programs in C and C++
+These are some projects files of basic coding programs in C and C++
